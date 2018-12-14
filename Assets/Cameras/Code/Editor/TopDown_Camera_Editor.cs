@@ -5,9 +5,11 @@ using UnityEditor;
 
 namespace Slasher.Cameras
 {
-    public class TopDown_Camera_Editor : MonoBehaviour
+    [CustomEditor(typeof(TopDown_Camera))]
+    public class TopDown_Camera_Editor : Editor
     {
         #region Variables
+        private TopDown_Camera:
         #endregion
 
         #region Main Methods
