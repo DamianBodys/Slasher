@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Cameras\Code\Scripts\TopDown_Camera.cs" />
+    <Compile Include="Assets\Controls\Code\Attack.cs" />
     <Compile Include="Assets\Controls\Code\Follow_Cursor.cs" />
     <Compile Include="Assets\Controls\Code\PlayerMovement.cs" />
     <Compile Include="Assets\LookAtCoursor.cs" />
