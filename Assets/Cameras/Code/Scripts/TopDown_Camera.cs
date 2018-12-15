@@ -11,7 +11,7 @@ namespace Slasher.Cameras
         public Transform m_Target;
         public float m_Height = 10f;
         public float m_Distance = 20f;
-        public float m_Angle = 45f;
+        public float m_Angle = 0f;
         public float m_SmoothSpeed = 0.5f;
 
         private Vector3 refVelocity;

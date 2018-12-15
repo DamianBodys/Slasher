@@ -62,9 +62,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Cameras\Code\Scripts\TopDown_Camera.cs" />
+    <Compile Include="Assets\Controls\Code\Follow_Cursor.cs" />
+    <Compile Include="Assets\Controls\Code\PlayerMovement.cs" />
     <Compile Include="Assets\LookAtCoursor.cs" />
     <Compile Include="Assets\LookAtMouse.cs" />
-    <Compile Include="Assets\PlayerMovement.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/UnityProjects/Slasher/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
