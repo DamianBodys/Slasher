@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Cameras\Code\Editor\TopDown_Camera_Editor.cs" />
+    <Compile Include="Assets\Cameras\Code\Editor\TopDown_Camera_Menu.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/UnityProjects/Slasher/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
