@@ -367,9 +367,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Target: {fileID: 105926864}
-  m_Height: 10
-  m_Distance: 20
+  m_Height: 6.385069
+  m_Distance: 2.6335287
   m_Angle: 45
+  m_SmoothSpeed: 0.1
 --- !u!1 &784415864
 GameObject:
   m_ObjectHideFlags: 0
